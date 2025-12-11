@@ -1,12 +1,4 @@
-# kickstart.nvim
-
-## Introduction
-
-This config was forked from kickstart.nvim. It is:
-
-* Small
-* Single-file
-* Completely Documented
+# Forked from kickstart
 
 ## Installation
 
@@ -26,9 +18,6 @@ git clone https://github.com/nvim-lua/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HO
 
 ### Post Installation
 
-Start Neovim, and Lazy will install all the plugins you have. Use `:Lazy` to view
-the current plugin status. Hit `q` to close the window.
-
 > [!NOTE]
 > For more information about a particular plugin check its repository's documentation.
 
@@ -42,8 +31,6 @@ the current plugin status. Hit `q` to close the window.
   * See [lazy.nvim uninstall](https://lazy.folke.io/usage#-uninstalling) information
 
 ### Install Recipes
-
-Below you can find OS specific install instructions for Neovim and dependencies.
 
 After installing all the dependencies continue with the [Install Kickstart](#Install-Kickstart) step.
 
